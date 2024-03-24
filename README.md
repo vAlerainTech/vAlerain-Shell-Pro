@@ -19,4 +19,4 @@
 > [!NOTE]  
 > You need a Windows computer and a stable C++compiler.You need to start from https://github.com/WhiteFoxLinux/vAlerain-Shell/tree/main/Historical-source-code/ Download the source code from the version number. Press F11 to start compiling
 
-![](https://github.com/WhiteFoxLinux/vAlerain-Shell-Pro/blob/main/q1.png)
+![](https://github.com/WhiteFoxLinux/vAlerain-Shell-Pro/blob/master/q1.png)
