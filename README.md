@@ -10,7 +10,7 @@
 > [!TIP]
 > Multilingual debugger, suitable for platform Windows X86 or x64 architecture
 
-¡¤ Simple and efficient, based on c++, c
+* Simple and efficient, based on c++, c
 
 > [!WARNING]  
 > This project is based on CLion, which may not be suitable for your compiler, but it is definitely better than 537 kind of shit.
