@@ -13,7 +13,7 @@
 ¡¤ Simple and efficient, based on c++, c
 
 > [!WARNING]  
-> This project is based on dev cpp, which may not be suitable for your compiler, but it is definitely better than 537 kind of shit.
+> This project is based on CLion, which may not be suitable for your compiler, but it is definitely better than 537 kind of shit.
 
 # How to compile this repository?
 > [!NOTE]  
